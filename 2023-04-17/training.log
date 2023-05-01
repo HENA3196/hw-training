@@ -1,0 +1,20 @@
+Learned about packages:selenium - https://selenium-python.readthedocs.io/
+	pika - https://pika.readthedocs.io/en/stable/
+	logging - https://docs.python.org/3/library/logging.html
+	ast
+	datetime
+	urllib
+	time
+	xml
+	lxml
+	base64 - https://docs.python.org/3/library/base64.html
+	os
+	random
+	ftplib
+	dropbox
+	boto3
+	cloudscraper - https://pypi.org/project/cloudscraper/
+	js2py
+	ipython
+	Python documentationPython documentation
+CSV— CSV File Reading and Writing
