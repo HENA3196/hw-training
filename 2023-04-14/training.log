@@ -1,0 +1,14 @@
+Learned about Python pakages:
+ requests
+ parsel 
+ re
+ json
+ csv
+ pymongo
+ scrapy:
+	Request
+	FormRequest
+	Response
+	Shell, inspect_response
+	Selector
+
