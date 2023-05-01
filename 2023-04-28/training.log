@@ -1,0 +1,14 @@
+Updated task.
+Learned about:
+  Mongodb:
+	Insert, delete, update, bulk insert
+	Exporting, importing, dumping and restore
+	GUI tools - compass
+	Sharding, clustering, nodes
+	Indexing
+	What is object ID and how to generate timestamp from object?
+	Mongodb guidelines
+	Indexing with unique key
+	Collection and database sharding
+	Naming standards for collections and databases
+	Data backup
