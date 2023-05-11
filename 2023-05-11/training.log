@@ -1,0 +1,24 @@
+ conducted google meet 
+    Task: To find any Python modules available for performing QA (Quality Assurance) tasks, and make a document.
+    completed task using selenium, web testing tool that allows automate browser actions.
+    Selenium:
+    
+Document: 
+Selenium:
+Selenium is an open-source automated testing framework used for web application testing. It provides a way for testers and developers to automate web browser actions and simulate user interactions with web applications. Selenium is a tool for web scraping that allows automating web browsing, interacting with websites, and  scraping data.
+With selenium we can write scripts in python, and perform web scraping and testing tasks.
+And it also provides support for various web drivers including google chrome, firefox etc.
+
+First install selenium and the webdriver and import them
+Selenium import webdriver
+Selenium supports various methods to locate elements on a web page.
+selenium support Xpath expression for location element in web page, and other other methods are,
+Find_element_by_xpath: 
+find_element_by_id
+find_element_by_name
+find_element_by_class_name
+find_element_by_css_selector
+find_element_by_tag_name
+
+-----------------------------------------------------------------------------------------------------------------------------------
+conducted google meet : QA task : DataHut_AT_Dm_PriceExtractions_20230511.CSV
