@@ -1,0 +1,26 @@
+QA Task
+================== 
+costplusdrugs_2023_05_03 :Completed
+coldwellbankerinternational_2023_05_05.json :Completed
+longrealty_2023_05_05.json  : Completed
+realtysouth_2023_05_05.json : Completed 
+reecenichols_2023_05_05.json: completed
+sutton_2023_05_05.json      : completed
+QA tool- dataprep: In progress.
+
+created a qa report of bayut_uae_2023_05_04.json using dataprep
+
+----------------------------
+
+import pandas as pd
+from dataprep.eda import create_report
+import zipfile
+
+zip_file_path = '/content/drive/MyDrive/bayut_uae_2023_05_04.zip'
+unzip_folder_path = '/content/drive/MyDrive/'
+with zipfile.ZipFile(zip_file_path, 'r') as zip_ref:
+   zip_ref.extractall(unzip_folder_path)
+json_file_path = '/content/drive/MyDrive/bayut_uae_2023_05_04.json'
+bayut_data = pd.read_json(json_file_path, lines=True)
+create_report(bayut_data)
+
