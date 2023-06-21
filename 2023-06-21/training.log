@@ -1,0 +1,11 @@
+Conducted morning meeting discussed about QA tools. Working on pandas_profiling.
+
+QA Task
+==================  
+qa tool findings : In progress
+houza_egp_2023_06_3: Completed
+olx_egp_2023_06_3: Completed
+
+
+created html report and json report of some dataset.
+json report contain unwanted fields. working on it.  
