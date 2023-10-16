@@ -1,0 +1,15 @@
+A-TASK STATUS
+*********************
+completed
+================== 
+tcs_aldi_austria: full data testing: 4 sites
+   interspar,mueller,billa,mpreis
+
+tcs:aldi_germany:flyer_extraction: full data testing: 7 sites
+    kaufland, rewe, lidl, netto, norma, edeka, penny
+
+ifixit:full data testing: 5 sites
+   lgparts,encompass,searspartsdirect,partselect,samsungparts
+
+propertyfinder: full data testing: 2 sites
+    aqarmap_egp,bayut_egp
