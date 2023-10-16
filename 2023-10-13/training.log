@@ -1,0 +1,26 @@
+
+QA TASK STATUS
+*********************
+completed
+================== 
+tcs:r_d: 
+sample data testing: 2 sites
+  handm2023_10_11.csv
+  Macys_2023_10_11.CSV
+ full data testing and qa sheet updations:3 site
+  jcpenney_2023_10_13.csv
+  macys_2023_10_13.csv
+  hm_2023_10_13.csv
+
+ifixit: partial data testing: 1 sites: 2 categories
+  laptopscreen_brand_2023_10_20.csv
+  laptopscreen_part_number_2023_10_20.cs
+ifixit: 1 site 
+  lgparts_2023_10_13.csv
+
+squaretrade: 1 site: 
+  samsclub_2023_10_12.csv
+
+field type verification process: 
+  tcs austria: mueller, mpries
+  tcs hungary :dm
